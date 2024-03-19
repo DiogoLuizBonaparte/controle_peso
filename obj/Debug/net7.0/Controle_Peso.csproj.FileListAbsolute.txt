@@ -1,0 +1,14 @@
+C:\Users\Bonaparte\source\repos\Controle_Peso\bin\Debug\net7.0\Controle_Peso.exe
+C:\Users\Bonaparte\source\repos\Controle_Peso\bin\Debug\net7.0\Controle_Peso.deps.json
+C:\Users\Bonaparte\source\repos\Controle_Peso\bin\Debug\net7.0\Controle_Peso.runtimeconfig.json
+C:\Users\Bonaparte\source\repos\Controle_Peso\bin\Debug\net7.0\Controle_Peso.dll
+C:\Users\Bonaparte\source\repos\Controle_Peso\bin\Debug\net7.0\Controle_Peso.pdb
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\Controle_Peso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\Controle_Peso.AssemblyInfoInputs.cache
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\Controle_Peso.AssemblyInfo.cs
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\Controle_Peso.csproj.CoreCompileInputs.cache
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\Controle_Peso.dll
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\refint\Controle_Peso.dll
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\Controle_Peso.pdb
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\Controle_Peso.genruntimeconfig.cache
+C:\Users\Bonaparte\source\repos\Controle_Peso\obj\Debug\net7.0\ref\Controle_Peso.dll
